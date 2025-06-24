@@ -1,0 +1,44 @@
+*{
+margin: 0px;
+padding:5px;
+box-sizing: border-box;
+}
+.invite-container{
+    background-color: orchid;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+.header{
+    background-color: aqua;
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    animation: moveright duration timing-function delay iteration-count direction fill-mode;
+    
+}
+.head1{
+    color: blue;
+    font-style: oblique;
+    background-color: aqua;
+    
+    text-align: center;
+}
+
+.section{
+    background-color:darkslateblue;
+    width: fit-content;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:blanchedalmond;
+
+}
+.sec{
+    color: blue;
+    font-size: medium;
+}
+.footer{
+ background-color: aqua ;
+ color:brown ;
+}
+
